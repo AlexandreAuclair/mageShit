@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\source\\private\\onlinesubsystemmodulesteam.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal5project\\mageshit\\intermediate\\build\\win64\\x64\\mageshiteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlinesubsystemsteam\\definitions.onlinesubsystemsteam.h",
+            "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\source\\public\\onlinesubsystemsteammodule.h",
+            "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\source\\public\\onlinesubsystemsteam.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemimpl.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\source\\public\\onlinesubsystemsteampackage.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\runtime\\steam\\steamshared\\source\\steamshared\\public\\steamsharedmodule.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\runtime\\steam\\steamshared\\source\\steamshared\\public\\steamsharedpackage.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

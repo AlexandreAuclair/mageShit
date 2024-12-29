@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\source\\private\\steamutilities.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal5project\\mageshit\\intermediate\\build\\win64\\x64\\mageshiteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlinesubsystemsteam\\definitions.onlinesubsystemsteam.h",
+            "g:\\unreal5project\\mageshit\\plugins\\online\\onlinesubsystemsteam\\source\\private\\steamutilities.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\isteammatchmaking.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steam_api_common.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steamtypes.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steamclientpublic.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steamuniverse.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\steam_api_internal.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\matchmakingtypes.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\isteamfriends.h",
+            "a:\\ue5\\ue_5.4\\engine\\source\\thirdparty\\steamworks\\steamv157\\sdk\\public\\steam\\isteamnetworking.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "a:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
